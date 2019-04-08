@@ -1,6 +1,6 @@
 # mern-crud1-ic
 
-Create a full REST stack for the following model:
+Create a fullstack application for the following model:
 - student unique ID
 - student name
 
